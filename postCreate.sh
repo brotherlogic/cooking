@@ -31,7 +31,7 @@ for RC_FILE in "$HOME/.zshrc" "$HOME/.bashrc"; do
 
 # Auto-attach to tmux session
 if [[ $- == *i* ]] && [[ -z "$TMUX" ]] && [[ -z "$SKIP_TMUX" ]] && [[ -t 0 ]]; then
-    tmux new-session -A -s "default-${USER:-vscode}"
+    tmux new-session -A -s "cooking"
 fi
 EOF
     fi
