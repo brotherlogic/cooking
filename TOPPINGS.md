@@ -48,5 +48,29 @@ Add these to any meal-prepped curry, stir-fry, or pasta to add texture and flavo
 
 **Instructions:**
 1. Coarsely chop peanuts, cashews, or almonds.
-2. Toast in a dry skillet over medium heat for 3–5 minutes, tossing frequently until fragrant and golden.
-3. Mix with a pinch of chili flakes or lime zest for extra kick.
+3. Toss in a dry skillet over medium heat for 3–5 minutes, tossing frequently until fragrant and golden.
+4. Mix with a pinch of chili flakes or lime zest for extra kick.
+
+## 6. Garlicky Umami Breadcrumbs (Pangrattato)
+*Perfect for: Pasta, Beef Stew, Stir-fry*
+
+This "poor man's Parmesan" adds a massive crunch and savory depth to any dish.
+
+**Ingredients:**
+- 1 cup coarse breadcrumbs (preferably from a stale loaf/sourdough)
+- 3 tbsp olive oil
+- 2 garlic cloves, smashed
+- 1/4 tsp kosher salt
+- *Optional:* 2 anchovy fillets (for "Umami Bomb" version)
+
+**Instructions:**
+1. Heat olive oil in a skillet over medium-low heat.
+2. If using anchovies, add them now and stir until they dissolve into the oil. Add smashed garlic and cook for 1-2 mins to infuse the oil (don't let the garlic burn).
+3. Add breadcrumbs and salt. Toast, stirring constantly, until they are a deep golden brown (about 3-5 mins).
+4. Remove garlic cloves and discard.
+5. **Variations:** 
+    - **Lemon:** Stir in 1 tsp lemon zest *after* removing from heat.
+    - **Spicy:** Add 1/2 tsp red pepper flakes to the oil before adding crumbs.
+    - **Herby:** Add 1 tsp chopped fresh rosemary or thyme to the oil with the garlic.
+6. **Storage:** Keep in an airtight container at room temperature for up to 5 days.
+
