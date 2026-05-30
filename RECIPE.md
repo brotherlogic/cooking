@@ -86,6 +86,42 @@
 4. **Vegetables:** Add frozen mixed vegetables. Cook for 3-5 mins until tender and liquid has evaporated.
 5. **Combine:** Add spaghetti and chicken back to the pan. Pour in soy sauce, vinegar, and honey.
 6. **Finish:** Toss over high heat for 2-3 mins until glazed.
-7. **Serve:** Garnish with sesame seeds and scallion greens.
+7. Serve: Garnish with sesame seeds and scallion greens.
+
+---
+
+## Beef and Vegetable Stew (for Bulgur or Couscous)
+*Adapted from Melissa Clark (NYT Cooking)*
+*Yields approx. 12 cups (5 x 2-cup meals + grains)*
+
+**Ingredients**
+- 2 lbs beef chuck roast, cut into 1-inch cubes
+- 2 tbsp olive oil
+- 1 large onion, chopped
+- 3 garlic cloves, minced
+- 1 tbsp grated fresh ginger
+- 1 tsp ground cumin
+- 1 tsp ground coriander
+- 1/2 tsp ground cinnamon
+- 1/2 tsp ground turmeric
+- 3 medium carrots, sliced into rounds
+- 2 medium turnips or parsnips, peeled and cubed
+- 1 can (15 oz) chickpeas, drained
+- 4-6 cups beef broth
+- Salt and black pepper
+- Fresh parsley or cilantro for garnish
+
+**Grains (Prepared Separately)**
+- 1.5 cups dry Bulgur or Couscous
+- 2.5 cups water or broth (check package for exact ratio)
+
+**Instructions**
+1. **Brown Beef:** Pat beef dry and season with salt/pepper. In a large pot or Dutch oven, heat oil over medium-high. Brown beef in batches until golden. Remove and set aside.
+2. **Aromatics:** In the same pot, sauté onion until soft (5 mins). Add garlic, ginger, and all spices. Stir for 1 min until fragrant.
+3. **Simmer:** Return beef and any juices to the pot. Add beef broth until meat is covered. Bring to a boil, then reduce to low and simmer, covered, for 1.5 hours until beef is tender.
+4. **Vegetables:** Add carrots and turnips/parsnips. Simmer for 20 mins. Add chickpeas and simmer for another 10 mins until all veg are tender.
+5. **Grains:** While stew finishes, cook bulgur or couscous separately according to package instructions. Fluff with a fork.
+6. **Portion:** Divide the meat/veggie mix into five 2-cup containers. Store grains separately to prevent them from soaking up all the sauce.
+
 
 
