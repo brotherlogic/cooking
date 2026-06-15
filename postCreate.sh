@@ -9,6 +9,9 @@ sudo apt-get update && sudo apt-get install -y tmux emacs
 git config --global user.email 'brotherlogic.automation@gmail.com'
 git config --global user.name 'Brotherlogic Automation'
 
+# Install Antigravity CLI
+curl -fsSL https://antigravity.google/cli/install.sh | bash
+
 # Setup tmux for Ghostty and graphics support
 cat << 'EOF' > "$HOME/.tmux.conf"
 # Set proper default terminal for better TUI rendering
@@ -36,3 +39,4 @@ fi
 EOF
     fi
 done
+
