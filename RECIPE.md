@@ -123,5 +123,37 @@
 5. **Grains:** While stew finishes, cook bulgur or couscous separately according to package instructions. Fluff with a fork.
 6. **Portion:** Divide the meat/veggie mix into five 2-cup containers. Store grains separately to prevent them from soaking up all the sauce.
 
+---
 
+## Slow-Simmered Beef & Pork Bolognese Sauce
+*Yields approx. 10 cups (5 x 2-cup meals)*
 
+This classic meat sauce is loaded with savory flavor and incorporates a generous amount of non-tomato vegetables (carrots, celery, and mushrooms) that melt beautifully into the sauce over a long simmer. It freezes exceptionally well.
+
+**Ingredients**
+- 1.5 lbs ground beef (80/20 or 85/15)
+- 1 lb ground pork
+- 4 oz pancetta or bacon, finely chopped
+- 2 tbsp olive oil
+- 2 cups yellow onions, finely minced
+- 2 cups carrots, finely minced (non-tomato vegetable)
+- 2 cups celery, finely minced (non-tomato vegetable)
+- 2 cups cremini or white button mushrooms, very finely minced (non-tomato vegetable)
+- 6 garlic cloves, minced
+- 1 can (6 oz) tomato paste
+- 1 cup dry white or red wine (e.g., Sauvignon Blanc or Chianti)
+- 2 cans (28 oz each) crushed San Marzano tomatoes
+- 2 cups beef broth
+- 1.5 cups whole milk (adds richness and tenderizes the meat)
+- 2 bay leaves
+- Salt, black pepper, and a pinch of grated nutmeg
+
+**Instructions**
+1. **Render Fats & Brown Aromatics:** In a large, heavy-bottomed Dutch oven, heat olive oil over medium heat. Add chopped pancetta/bacon and cook until crispy and the fat has rendered (5-7 mins).
+2. **Sauté the Vegetables:** Add the minced onions, carrots, celery, and mushrooms. Cook, stirring occasionally, until the vegetables are soft and sweet, and any moisture released by the mushrooms has evaporated (10-12 mins). Add garlic and cook for 1 minute until fragrant.
+3. **Brown the Meat:** Add the ground beef and ground pork to the pot. Increase heat to medium-high. Cook, breaking up the meat with a wooden spoon, until browned and cooked through (8-10 mins).
+4. **Deglaze:** Stir in the tomato paste and cook for 2 mins, coating the meat and vegetables until the paste turns a deep brick-red color. Pour in the wine and scrape up any browned bits on the bottom of the pot. Simmer until the wine has reduced by half (~5 mins).
+5. **Simmer with Liquids:** Add the crushed tomatoes, beef broth, milk, bay leaves, 1 tsp salt, 1/2 tsp black pepper, and a pinch of nutmeg. Bring the mixture to a gentle boil, then reduce heat to the lowest setting. Cover partially and simmer for 2 to 2.5 hours, stirring occasionally. The sauce should be thick, rich, and deeply aromatic.
+6. **Adjust & Finish:** Discard the bay leaves. Taste and adjust seasoning with salt and pepper.
+7. **Portion & Freeze:** Let the sauce cool completely. Divide into five 2-cup containers. Label and freeze. 
+8. **To Serve:** Thaw one 2-cup container of sauce. Reheat gently in a pan and toss with 12-16 oz of freshly boiled pasta (such as rigatoni, tagliatelle, or pappardelle). Top with **Garlicky Umami Breadcrumbs (Pangrattato)** or grated parmesan.
