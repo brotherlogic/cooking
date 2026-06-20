@@ -157,3 +157,36 @@ This classic meat sauce is loaded with savory flavor and incorporates a generous
 6. **Adjust & Finish:** Discard the bay leaves. Taste and adjust seasoning with salt and pepper.
 7. **Portion & Freeze:** Let the sauce cool completely. Divide into five 2-cup containers. Label and freeze. 
 8. **To Serve:** Thaw one 2-cup container of sauce. Reheat gently in a pan and toss with 12-16 oz of freshly boiled pasta (such as rigatoni, tagliatelle, or pappardelle). Top with **Garlicky Umami Breadcrumbs (Pangrattato)** or grated parmesan.
+
+---
+
+## Freezer-Friendly Chicken Tikka Masala with Cauliflower
+*Yields approx. 10 cups (5 x 2-cup meals)*
+
+This rich, spiced tomato curry uses coconut milk instead of yogurt or cream to ensure it doesn't split when frozen and reheated. Cauliflower florets and bell peppers are added to bulk up the vegetable content.
+
+**Ingredients**
+- 2 lbs boneless, skinless chicken thighs, cut into 1-inch pieces
+- 2 tbsp neutral oil or ghee
+- 1 large yellow onion, finely diced
+- 1 large red bell pepper, chopped
+- 1 medium head cauliflower, cut into small florets (about 4 cups)
+- 4 garlic cloves, minced
+- 2 tbsp grated fresh ginger
+- 2 tbsp garam masala
+- 1 tbsp ground coriander
+- 1 tsp ground turmeric
+- 1 tsp chili powder (adjust to taste)
+- 1 can (6 oz) tomato paste
+- 1 large can (28 oz) crushed tomatoes
+- 1 can (13.5 oz) full-fat coconut milk
+- 1/2 cup chicken broth (if needed to thin)
+- Salt and black pepper
+
+**Instructions**
+1. **Sear the Chicken:** Heat 1 tbsp oil in a large Dutch oven or heavy pot over medium-high heat. Season chicken with salt and pepper. Brown the chicken in batches until golden (it doesn't need to be fully cooked). Remove and set aside.
+2. **Sauté Vegetables:** Lower heat to medium. Add remaining 1 tbsp oil. Add the onion and bell pepper, cooking until softened (about 5-7 mins). 
+3. **Bloom Spices:** Add the garlic, ginger, garam masala, coriander, turmeric, and chili powder. Cook for 1 minute until highly fragrant. Stir in the tomato paste and cook for 1 more minute until it darkens slightly.
+4. **Simmer:** Pour in the crushed tomatoes and coconut milk. Stir well, scraping up any browned bits from the bottom. Return the chicken and any resting juices to the pot. Add the cauliflower florets. 
+5. **Cook:** Bring to a gentle simmer, cover partially, and cook for 25-30 minutes, stirring occasionally, until the chicken is cooked through and the cauliflower is tender. If the curry is too thick, stir in up to 1/2 cup of chicken broth.
+6. **Portion:** Let the curry cool completely. Divide into five 2-cup containers for freezing. Serve over freshly cooked rice.
