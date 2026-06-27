@@ -190,3 +190,33 @@ This rich, spiced tomato curry uses coconut milk instead of yogurt or cream to e
 4. **Simmer:** Pour in the crushed tomatoes and coconut milk. Stir well, scraping up any browned bits from the bottom. Return the chicken and any resting juices to the pot. Add the cauliflower florets. 
 5. **Cook:** Bring to a gentle simmer, cover partially, and cook for 25-30 minutes, stirring occasionally, until the chicken is cooked through and the cauliflower is tender. If the curry is too thick, stir in up to 1/2 cup of chicken broth.
 6. **Portion:** Let the curry cool completely. Divide into five 2-cup containers for freezing. Serve over freshly cooked rice.
+
+---
+
+## Black Pepper Beef and Cabbage Stir-Fry (with Mushrooms)
+*Adapted from Sue Li (NYT Cooking)*
+*Yields approx. 5 cups*
+
+**Ingredients**
+- 1 lb sirloin steak, thinly sliced crosswise
+- 8 oz cremini or shiitake mushrooms, sliced
+- 1 small green cabbage (about 12 oz), thinly sliced
+- 1.5 tbsp whole black peppercorns, coarsely crushed
+- 4 garlic cloves, grated
+- 1 tbsp light brown sugar
+- 1.5 tsp cornstarch
+- 1.5 tsp kosher salt
+- 3 tbsp soy sauce
+- 1.5 tbsp sherry vinegar
+- 3 to 4 tbsp neutral cooking oil (e.g., sunflower or canola)
+- 1 tbsp toasted sesame seeds, crushed (for garnish)
+- 3 scallions, thinly sliced (for garnish)
+- Cooked rice for serving
+
+**Instructions**
+1. **Marinate the Beef:** In a medium bowl, combine the crushed peppercorns, grated garlic, brown sugar, cornstarch, and salt. Add the sliced steak and toss until well coated.
+2. **Sear the Beef:** Heat 2 tbsp of the oil in a large cast-iron skillet or wok over medium-high heat. Add the steak and stir frequently until the edges are lightly browned (3–4 minutes). Stir in the soy sauce, toss to coat for another minute, then remove the beef from the skillet and set aside.
+3. **Cook the Mushrooms:** Add 1 tbsp of oil to the same skillet if dry. Add the sliced mushrooms and cook for 3-4 minutes until browned and softened.
+4. **Cook the Cabbage:** Add the cabbage to the skillet in an even layer (add another tbsp of oil if needed). Let it cook undisturbed for about 1 minute so it caramelizes slightly, then stir and cook until crisp-tender (about 4–6 minutes). Season with the sherry vinegar and additional salt if needed.
+5. **Combine and Serve:** Return the beef (and any accumulated juices) to the skillet with the cabbage and mushrooms. Stir until combined and heated through (about 1 minute). 
+6. **Portion:** Divide the stir-fry into portions (yielding approx. 5 cups total). Top with the toasted sesame seeds and sliced scallions, and serve over rice.
