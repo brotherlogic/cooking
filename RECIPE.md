@@ -220,3 +220,39 @@ This rich, spiced tomato curry uses coconut milk instead of yogurt or cream to e
 4. **Cook the Cabbage:** Add the cabbage to the skillet in an even layer (add another tbsp of oil if needed). Let it cook undisturbed for about 1 minute so it caramelizes slightly, then stir and cook until crisp-tender (about 4–6 minutes). Season with the sherry vinegar and additional salt if needed.
 5. **Combine and Serve:** Return the beef (and any accumulated juices) to the skillet with the cabbage and mushrooms. Stir until combined and heated through (about 1 minute). 
 6. **Portion:** Divide the stir-fry into portions (yielding approx. 5 cups total). Top with the toasted sesame seeds and sliced scallions, and serve over rice.
+
+---
+
+## Spicy Italian Sausage Ragù with Red Peppers & Tuscan Kale
+*Yields approx. 10 cups (5 x 2-cup meals)*
+
+This robust meat sauce combines savory Italian sausage with sweet red bell peppers and hearty Tuscan kale braised slowly in a rich tomato and red wine sauce. It holds up exceptionally well to freezing and pairs wonderfully with hearty pasta shapes like rigatoni, penne, or pappardelle.
+
+**Ingredients**
+- 2 lbs sweet or spicy Italian sausage (casings removed)
+- 2 tbsp olive oil
+- 1 large yellow onion, finely diced
+- 2 large red bell peppers, finely diced (non-tomato vegetable)
+- 1 bunch (approx. 6-8 oz) Tuscan kale (Lacinato), stems removed and leaves finely chopped (non-tomato vegetable)
+- 8 oz cremini mushrooms, finely chopped (optional extra vegetable)
+- 6 garlic cloves, minced
+- 1 can (6 oz) tomato paste
+- 3/4 cup dry red wine (such as Chianti or Pinot Noir)
+- 2 cans (28 oz each) crushed San Marzano tomatoes
+- 1 to 2 cups beef or chicken broth
+- 1 tsp dried oregano
+- 1/2 tsp red pepper flakes (adjust to taste)
+- 1 bay leaf
+- Salt and black pepper to taste
+- Freshly grated Parmesan or Pecorino Romano for serving
+
+**Instructions**
+1. **Brown the Sausage:** Heat 1 tbsp olive oil in a large Dutch oven over medium-high heat. Add the ground Italian sausage, breaking it up with a wooden spoon. Cook until deeply browned and cooked through (7-9 mins). Remove meat with a slotted spoon, leaving rendered fat in the pot.
+2. **Sauté the Vegetables:** Lower heat to medium and add remaining 1 tbsp olive oil if dry. Add the diced onion, red bell peppers, and cremini mushrooms. Cook, stirring occasionally, until vegetables are soft and sweet (8-10 mins). Add garlic, oregano, and red pepper flakes; cook 1 minute until fragrant.
+3. **Tomato Paste & Deglaze:** Stir in tomato paste and cook for 2 mins until darkened to a deep brick red. Pour in the red wine, scraping up any browned bits stuck to the bottom of the pot. Simmer until wine is reduced by half (3-4 mins).
+4. **Simmer Ragù:** Return the cooked sausage to the pot. Stir in crushed tomatoes, 1 cup broth, bay leaf, 1 tsp salt, and 1/2 tsp black pepper. Bring to a gentle boil, then reduce heat to low. Partially cover and simmer for 45 minutes, stirring occasionally.
+5. **Braise Kale:** Add the chopped Tuscan kale to the pot (it will look bulky at first but quickly wilts down). Stir into the hot sauce and simmer for an additional 15-20 minutes until the kale is tender and the sauce is thick and glossy. If too thick, stir in up to 1 cup of remaining broth.
+6. **Adjust & Finish:** Remove bay leaf. Taste and adjust seasoning with salt and black pepper as needed.
+7. **Portion & Freeze:** Allow sauce to cool completely. Divide into five 2-cup containers for freezing.
+8. **To Serve:** Thaw one 2-cup portion. Reheat in a skillet and toss with 12-16 oz of warm cooked pasta. Top with freshly grated Parmesan or Pecorino Romano.
+
