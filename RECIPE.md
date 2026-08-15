@@ -256,3 +256,39 @@ This robust meat sauce combines savory Italian sausage with sweet red bell peppe
 7. **Portion & Freeze:** Allow sauce to cool completely. Divide into five 2-cup containers for freezing.
 8. **To Serve:** Thaw one 2-cup portion. Reheat in a skillet and toss with 12-16 oz of warm cooked pasta. Top with freshly grated Parmesan or Pecorino Romano.
 
+---
+
+## Slow-Simmered Thai Massaman Beef Curry with Sweet Potatoes & Peppers
+*Yields approx. 10 cups (5 x 2-cup meals)*
+
+This rich, fragrant Massaman curry features melt-in-your-mouth tender beef chuck braised in a warmly spiced coconut gravy with sweet potatoes and red bell peppers. Massaman curry paste blends aromatic spices like cinnamon, cardamom, and cumin with Thai aromatics (lemongrass, galangal, and garlic). Full-fat coconut milk ensures this dish freezes and reheats without splitting.
+
+**Ingredients**
+- 2 lbs beef chuck roast, trimmed of excess fat and cut into 1-inch cubes
+- 2 tbsp neutral oil (or coconut oil)
+- 1 large yellow onion, coarsely chopped
+- 2 medium sweet potatoes (approx. 1 lb), peeled and cut into 3/4-inch cubes (vegetable 1)
+- 2 large red bell peppers, cut into 1-inch pieces (vegetable 2)
+- 4 garlic cloves, minced
+- 1 tbsp grated fresh ginger
+- 4 to 5 tbsp Massaman curry paste
+- 2 cans (13.5 oz each) full-fat coconut milk
+- 1 cup beef broth
+- 2 tbsp fish sauce (or soy sauce)
+- 1.5 tbsp brown sugar or palm sugar
+- 1 tbsp tamarind paste or fresh lime juice
+- 1 cinnamon stick and 2 bay leaves
+- Salt and black pepper to taste
+- Cooked jasmine rice for serving
+- *Optional Garnishes:* Toasted peanuts/cashews, fresh cilantro, or sliced red chilies
+
+**Instructions**
+1. **Sear the Beef:** Season beef cubes with salt and black pepper. Heat 1 tbsp oil in a large Dutch oven over medium-high heat. Sear beef in batches until browned on all sides (5-7 mins total). Transfer browned beef to a plate.
+2. **Sauté Aromatics & Curry Paste:** Reduce heat to medium. Add remaining 1 tbsp oil, onion, garlic, and ginger. Sauté for 3-4 mins until softened. Add Massaman curry paste and stir constantly for 1-2 mins until highly fragrant.
+3. **Simmer Liquids & Beef:** Return beef and resting juices to the pot. Stir in 1 can of coconut milk, beef broth, fish sauce, brown sugar, tamarind paste (or lime juice), cinnamon stick, and bay leaves. Bring to a boil, then cover, reduce heat to low, and simmer gently for 1 hour until beef begins to tenderize.
+4. **Add Vegetables:** Stir in sweet potato cubes, red bell pepper pieces, and the second can of coconut milk. Cover and simmer for an additional 25-30 minutes until sweet potatoes are fork-tender and beef is melt-in-your-mouth tender.
+5. **Adjust & Finish:** Remove cinnamon stick and bay leaves. Taste curry and adjust seasoning with salt, fish sauce, sugar, or lime juice as needed.
+6. **Portion & Freeze:** Allow curry to cool completely. Divide into five 2-cup containers for freezing. Store rice separately.
+7. **To Serve:** Thaw one 2-cup portion. Reheat in a pan or microwave and serve piping hot over fresh jasmine rice. Garnish with toasted nuts or cilantro if desired.
+
+
