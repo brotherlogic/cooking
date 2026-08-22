@@ -291,4 +291,35 @@ This rich, fragrant Massaman curry features melt-in-your-mouth tender beef chuck
 6. **Portion & Freeze:** Allow curry to cool completely. Divide into five 2-cup containers for freezing. Store rice separately.
 7. **To Serve:** Thaw one 2-cup portion. Reheat in a pan or microwave and serve piping hot over fresh jasmine rice. Garnish with toasted nuts or cilantro if desired.
 
+---
 
+## Stir-Fried Chicken & Baby Bok Choy (with Shiitake Mushrooms)
+*Adapted from Melissa Clark (NYT Cooking)*
+*Yields approx. 5 cups (5 x 1-cup meals)*
+
+**Ingredients**
+- 1 lb boneless, skinless chicken thighs, cut into bite-sized pieces
+- 1 lb baby bok choy (about 3–4 heads), stems sliced into 1-inch ribbons, leaves halved
+- 6 oz fresh shiitake or cremini mushrooms, sliced
+- 3 scallions, sliced (separate whites and greens)
+- 3 garlic cloves, minced
+- 1 tbsp grated fresh ginger
+- 2–3 tbsp neutral cooking oil (sunflower, canola, or peanut)
+
+**Sauce & Marinade**
+- 3 tbsp low-sodium soy sauce
+- 1.5 tbsp Shaoxing wine (or dry sherry / Chinese rice cooking wine)
+- 1 tbsp toasted sesame oil
+- 1 tbsp light brown sugar or honey
+- 1.5 tsp cornstarch
+- 2 tbsp water or chicken broth
+- Pinch of red pepper flakes or white pepper (optional)
+
+**Instructions**
+1. **Marinate Chicken:** In a bowl, whisk together the soy sauce, Shaoxing wine, sesame oil, brown sugar, cornstarch, and water. Add the sliced chicken, toss to coat, and let marinate for 10–15 minutes at room temperature.
+2. **Sear Chicken:** Heat 1.5 tbsp oil in a large wok or cast-iron skillet over high heat. Remove chicken from marinade with tongs (reserving leftover liquid in the bowl). Sear chicken in a single layer for 3–4 minutes per side until golden brown and cooked through. Transfer to a plate.
+3. **Sauté Aromatics & Mushrooms:** Add remaining 1 tbsp oil to the pan. Add mushroom slices and sauté for 2–3 minutes until lightly browned. Stir in scallion whites, garlic, and ginger; cook for 30–45 seconds until fragrant.
+4. **Wilt Bok Choy:** Add the bok choy stems first and stir-fry for 1–2 minutes, then toss in the leafy greens and cook for another 1 minute until crisp-tender.
+5. **Glaze & Combine:** Pour in the reserved marinade and return the cooked chicken (plus juices) to the skillet. Toss over high heat for 1–2 minutes until the sauce bubbles, thickens, and glazes everything evenly. Remove from heat and toss with scallion greens.
+6. **Portion & Freeze:** Allow the stir-fry to cool completely. Divide evenly into five 1-cup containers for freezing.
+7. **To Serve:** Thaw one 1-cup portion. Reheat in a pan or microwave and serve hot over fresh jasmine rice, brown rice, or noodles.
