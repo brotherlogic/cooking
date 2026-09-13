@@ -324,3 +324,39 @@ This rich, fragrant Massaman curry features melt-in-your-mouth tender beef chuck
 5. **Glaze & Combine:** Pour in the reserved marinade and return the cooked chicken (plus juices) to the skillet. Toss over high heat for 1–2 minutes until the sauce bubbles, thickens, and glazes everything evenly. Remove from heat and toss with scallion greens.
 6. **Portion & Freeze:** Allow the stir-fry to cool completely. Divide evenly into five 1-cup containers for freezing.
 7. **To Serve:** Thaw one 1-cup portion. Reheat in a pan or microwave and serve hot over fresh jasmine rice, brown rice, or noodles.
+
+---
+
+## Tuscan Ground Turkey Ragù with Zucchini & Cremini Mushrooms
+*Yields approx. 5 cups (5 x 1-cup meals)*
+
+This lighter yet deeply savory pasta sauce pairs lean ground turkey with earthy cremini mushrooms, tender diced zucchini, and nutrient-rich baby spinach. Simmered with garlic, crushed fennel seeds, white wine, and sweet crushed San Marzano tomatoes, the vegetables soften directly into the sauce, creating a luscious, velvety texture that clings perfectly to pasta shapes like penne, rigatoni, or fusilli. It freezes and reheats exceptionally well without separating.
+
+**Ingredients**
+- 1 lb lean ground turkey (93/7) or ground chicken
+- 1 tbsp olive oil
+- 1 medium yellow onion, finely diced (~1 cup)
+- 8 oz cremini (baby bella) mushrooms, finely diced (vegetable 1)
+- 1 medium zucchini (approx. 8 oz), diced into 1/4-inch cubes (vegetable 2)
+- 3 oz fresh baby spinach, roughly chopped (vegetable 3)
+- 4 garlic cloves, minced
+- 2 tbsp tomato paste
+- 1/3 cup dry white wine (e.g., Pinot Grigio or Sauvignon Blanc) or chicken broth
+- 1 can (28 oz) crushed San Marzano tomatoes
+- 1/2 cup low-sodium chicken broth
+- 1 tsp dried Italian seasoning (or equal parts dried oregano and basil)
+- 1/2 tsp crushed fennel seeds (gives the turkey rich Italian-sausage flavor)
+- 1/4 tsp red pepper flakes (optional, for gentle warmth)
+- 1 bay leaf
+- Salt and freshly ground black pepper to taste
+- Freshly grated Parmesan or Pecorino Romano for serving
+- *Optional Topping:* Garlicky Umami Breadcrumbs (Pangrattato) from `TOPPINGS.md`
+
+**Instructions**
+1. **Brown the Turkey:** Heat olive oil in a Dutch oven or large deep skillet over medium-high heat. Add ground turkey, 1/2 tsp salt, and 1/4 tsp black pepper. Cook, breaking up the meat with a wooden spoon, until browned and cooked through (5–6 mins). Transfer turkey to a plate.
+2. **Sauté the Vegetables & Aromatics:** Lower heat to medium. Add the diced onion, mushrooms, and zucchini to the pan. Cook, stirring occasionally, until the vegetables have softened and the mushroom liquid has evaporated (7–8 mins). Stir in the minced garlic, Italian seasoning, crushed fennel seeds, and red pepper flakes; cook for 1 minute until fragrant.
+3. **Tomato Paste & Deglaze:** Clear a small space in the center of the pan, add the tomato paste, and cook for 1–2 minutes until it turns a deep brick red. Pour in the white wine, using a wooden spoon to scrape up any browned bits stuck to the bottom of the pan. Simmer for 2 minutes until reduced by half.
+4. **Simmer the Ragù:** Return the browned turkey (along with any rested juices) to the pan. Add the crushed San Marzano tomatoes, chicken broth, bay leaf, 1/2 tsp salt, and 1/4 tsp black pepper. Bring to a gentle boil, then lower the heat to low. Simmer partially covered for 25–30 minutes, stirring occasionally, until the sauce thickens and reduces to approx. 5 cups.
+5. **Fold in Spinach:** Discard the bay leaf. Stir in the chopped baby spinach and cook for 2 minutes until just wilted into the sauce. Taste and adjust seasoning with salt and black pepper as needed.
+6. **Portion & Freeze:** Allow the sauce to cool completely. Divide evenly into five 1-cup freezer-safe containers (approx. 1 cup / 8 oz per container). Label and freeze.
+7. **To Serve:** Thaw one 1-cup portion in the refrigerator or microwave. Reheat gently in a skillet and toss with 3 to 4 oz of cooked pasta (such as rigatoni, penne, or fusilli), adding a splash of starchy pasta cooking water if needed to emulsify. Finish with freshly grated Parmesan or crunchy **Garlicky Umami Breadcrumbs (Pangrattato)**.
