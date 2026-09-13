@@ -13,15 +13,19 @@ Add these to any meal-prepped curry, stir-fry, or pasta to add texture and flavo
 5. **Storage:** Store in a jar in the freezer; sprinkle directly onto hot food.
 
 ## 2. Crispy Chickpeas
-*Perfect for: Curry, Grain Bowls*
+*Perfect for: Curry, Grain Bowls, Rose's Snacks*
 
 **Instructions:**
-1. Drain, rinse, and **thoroughly dry** one can of chickpeas (use a kitchen towel to pat them bone-dry).
+1. Drain, rinse, and **thoroughly dry** one can of chickpeas (use a kitchen towel to pat them bone-dry — removing any loose skins makes them extra crunchy).
 2. Toss with 1 tbsp olive oil and a pinch of salt.
 3. **Air Fry:** 390°F for 12–15 minutes, shaking every 5 mins.
 4. **Oven:** 400°F for 20–30 minutes, shaking every 10 mins.
-5. Toss with spices (curry powder, smoked paprika, or garlic powder) *after* cooking while still hot.
-6. **Storage:** Keep in an airtight container at room temperature (do not refrigerate).
+5. Toss with spices *after* cooking while still warm:
+   - **Savory/Curry:** Curry powder or smoked paprika + garlic powder.
+   - **Kid-Friendly "Cheesy" (Nut-Free):** 1 tbsp nutritional yeast + pinch of garlic powder and sea salt.
+   - **Ranch / Mild Herb:** Pinch of dried dill, onion powder, garlic powder, and sea salt.
+   - **Cinnamon Crunch:** 1/2 tsp ground cinnamon + 1/2 tsp brown sugar.
+6. **Storage:** Let cool completely uncovered on the baking tray (trapping residual steam causes them to soften). Store in a loosely lidded or airtight container at room temperature for up to 4–5 days (do not refrigerate).
 
 ## 3. Crispy Shallots (Cold-Start Method)
 *Perfect for: Stir-fry, Noodles, Curry*

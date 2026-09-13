@@ -36,8 +36,12 @@ A modular mix-and-match system for packing healthy, nut-free lunches and snacks.
 ### 2. Protein & Dairy Boosters
 * **Options:** String cheese sticks, Greek yogurt pouches/cups, cottage cheese with diced peaches, or shelled edamame (steamed with salt).
 
-### 3. Crunchy Whole-Grain Snacks
-* **Options:** Mini pretzel twists, pita chips, roasted sunflower/pumpkin seeds (pepitas), or air-popped popcorn.
+### 3. Crunchy Whole-Grain & Legume Snacks (Crisp Substitutes)
+* **Options:** Crispy roasted chickpeas (see [TOPPINGS.md](file:///workspaces/cooking/TOPPINGS.md#L15-L29)), roasted sunflower/pumpkin seeds (pepitas), mini pretzel twists, or pita chips.
+* **Kid-Friendly Chickpea Seasonings:**
+  - *Cheesy Herb (Nut-Free):* Nutritional yeast, mild garlic powder, sea salt.
+  - *Ranch:* Dried dill, onion powder, sea salt.
+  - *Cinnamon-Sugar:* Cinnamon and a touch of brown sugar.
 
 ### 4. Fruit & Sweet Treats (Nut-Free)
 * **Options:** 
@@ -54,7 +58,7 @@ Select **1 Lunch Element** + **2 to 3 Snack Elements** daily:
 | Day | Lunch Element | Snack Element 1 | Snack Element 2 | Snack Element 3 |
 | :--- | :--- | :--- | :--- | :--- |
 | **Monday** | Turkey Pinwheels | Cucumber & Hummus | String Cheese | Apple Slices |
-| **Tuesday** | Pesto Pasta Salad | Baby Carrots | SunButter Energy Balls | Pretzel Twists |
+| **Tuesday** | Pesto Pasta Salad | Baby Carrots | SunButter Energy Balls | Crispy Chickpeas |
 | **Wednesday** | DIY Bento Box | Edamame | Fresh Berry Cup | Popcorn |
 | **Thursday** | Thermos Fried Rice | Snap Peas & Ranch | Greek Yogurt Pouch | Mini Muffin |
-| **Friday** | Turkey & Cheese Pinwheels | Cucumber Coins | String Cheese | SunButter Energy Balls |
+| **Friday** | Turkey & Cheese Pinwheels | Cucumber Coins | String Cheese | Crispy Chickpeas |
