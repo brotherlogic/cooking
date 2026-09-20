@@ -360,3 +360,55 @@ This lighter yet deeply savory pasta sauce pairs lean ground turkey with earthy 
 5. **Fold in Spinach:** Discard the bay leaf. Stir in the chopped baby spinach and cook for 2 minutes until just wilted into the sauce. Taste and adjust seasoning with salt and black pepper as needed.
 6. **Portion & Freeze:** Allow the sauce to cool completely. Divide evenly into five 1-cup freezer-safe containers (approx. 1 cup / 8 oz per container). Label and freeze.
 7. **To Serve:** Thaw one 1-cup portion in the refrigerator or microwave. Reheat gently in a skillet and toss with 3 to 4 oz of cooked pasta (such as rigatoni, penne, or fusilli), adding a splash of starchy pasta cooking water if needed to emulsify. Finish with freshly grated Parmesan or crunchy **Garlicky Umami Breadcrumbs (Pangrattato)**.
+
+---
+
+## Homestyle North Indian Chicken & Vegetable Korma (with Cauliflower, Carrots & Peas)
+*Adapted from Zainab Shah & Priya Krishna (NYT Cooking)*  
+*Yields approx. 10 cups (5 x 2-cup meals)*
+
+This rich, mildly spiced North Indian curry features tender chicken thighs simmered with cauliflower, carrots, and sweet green peas in a golden, aromatic gravy. It utilizes authentic Indian cooking techniques—a whole-spice blooming step (*tadka*), caramelized onions, ginger-garlic paste, and crushed *kasuri methi* (dried fenugreek leaves)—while keeping the heat very mild through gentle Kashmiri chile powder and sweet warming spices. Full-fat coconut milk ensures a silky texture that freezes and reheats perfectly without separating.
+
+**Ingredients**
+- 2 lbs boneless, skinless chicken thighs, cut into 1-inch bite-sized pieces
+- 2 tbsp ghee or neutral cooking oil (divided)
+- 1 large yellow onion, finely diced (~1.5 cups)
+- 1 medium head cauliflower, cut into small bite-sized florets (~4 cups) (vegetable 1)
+- 2 medium carrots, peeled and sliced into 1/4-inch coins (~1.5 cups) (vegetable 2)
+- 1 cup frozen sweet green peas, thawed (vegetable 3)
+- 5 garlic cloves, finely grated or minced
+- 1.5 tbsp fresh ginger, finely grated
+- 1 can (14.5 oz) crushed tomatoes (or petite diced tomatoes)
+- 1 tbsp tomato paste
+- 1 can (13.5 oz) full-fat coconut milk
+- 1 cup low-sodium chicken broth (or vegetable broth)
+- 1-2 tbsp fresh lemon juice
+- 1/4 cup chopped fresh cilantro (for garnish)
+
+**Whole Spices (Tadka)**
+- 1 tsp whole cumin seeds (*jeera*)
+- 4 to 5 whole green cardamom pods, lightly cracked
+- 1 cinnamon stick (approx. 2 inches)
+- 3 to 4 whole cloves
+- 1 dried bay leaf
+
+**Ground Spices & Seasonings**
+- 1.5 tbsp ground coriander
+- 1 tsp ground cumin
+- 1 tsp ground turmeric
+- 1.5 tsp Kashmiri red chile powder (or 1 tsp sweet paprika + 1/4 tsp mild chili powder)
+- 1 tsp garam masala
+- 1 tbsp dried fenugreek leaves (*kasuri methi*, crushed between palms)
+- 2 tsp kosher salt (divided, or to taste)
+- 1/2 tsp freshly ground black pepper
+
+**Instructions**
+1. **Sear the Chicken:** Season chicken pieces with 1 tsp salt and 1/2 tsp black pepper. Heat 1 tbsp ghee or oil in a large Dutch oven over medium-high heat. Sear chicken in batches until lightly golden on the edges (4–5 mins total; does not need to be fully cooked). Transfer chicken to a plate.
+2. **Bloom Whole Spices (*Tadka*):** Reduce heat to medium. Add remaining 1 tbsp ghee or oil to the pot. Add whole cumin seeds, cracked cardamom pods, cinnamon stick, cloves, and bay leaf. Sizzle for 30–45 seconds until fragrant and cumin seeds darken slightly.
+3. **Caramelize Aromatics (*Bhuna*):** Add finely diced onion to the spices. Sauté for 7–9 minutes, stirring frequently, until soft, sweet, and golden-brown. Stir in grated garlic and ginger; cook for 1–2 minutes until fragrant.
+4. **Build Tomato Masala:** Stir in tomato paste, ground coriander, ground cumin, turmeric, and Kashmiri chile powder. Cook for 1 minute to bloom spices in the oil. Add crushed tomatoes and remaining 1 tsp salt. Cook for 3–4 minutes until tomatoes darken into a glossy, jammy base and oil begins to separate slightly.
+5. **Simmer Liquids & Vegetables:** Pour in coconut milk and chicken broth, scraping up any browned bits stuck to the bottom of the pot. Return chicken and any resting juices to the pot. Add cauliflower florets and sliced carrots. Bring to a gentle boil, then lower heat to medium-low. Cover partially and simmer for 20 minutes, stirring occasionally, until vegetables are tender and chicken is cooked through.
+6. **Finish Curry:** Stir in thawed sweet peas. Simmer uncovered for 3–4 minutes until peas are bright green and heated through. Turn off heat. Stir in garam masala, crushed *kasuri methi*, and lemon juice. Discard cinnamon stick and bay leaf (and cardamom pods if desired). Taste and adjust seasoning with salt as needed.
+7. **Portion & Freeze:** Allow curry to cool completely. Divide evenly into five 2-cup freezer-safe containers (approx. 10 cups total yield). Label and freeze.
+8. **To Serve:** Thaw one 2-cup portion. Reheat gently in a pan or microwave and serve piping hot over fresh basmati rice. Top with fresh cilantro and optional **Crispy Shallots** or **Quick-Pickled Red Onions** from `TOPPINGS.md`.
+
