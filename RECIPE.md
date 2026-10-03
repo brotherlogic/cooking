@@ -412,3 +412,44 @@ This rich, mildly spiced North Indian curry features tender chicken thighs simme
 7. **Portion & Freeze:** Allow curry to cool completely. Divide evenly into five 2-cup freezer-safe containers (approx. 10 cups total yield). Label and freeze.
 8. **To Serve:** Thaw one 2-cup portion. Reheat gently in a pan or microwave and serve piping hot over fresh basmati rice. Top with fresh cilantro and optional **Crispy Shallots** or **Quick-Pickled Red Onions** from `TOPPINGS.md`.
 
+---
+
+## Mild Black Pepper Beef Stir-Fry with Cabbage & Sweet Peppers
+*Adapted from Kay Chun (NYT Cooking)*  
+*Yields approx. 5 cups (5 x 1-cup meals or 2 x 2-cup + 1 x 1-cup)*
+
+This weeknight stir-fry pairs tender flank steak with sweet red bell peppers, crisp green cabbage, and scallions. Adapted from Kay Chun's black pepper beef on NYT Cooking, the black pepper is dialed back to a gentle ½ teaspoon to provide warm, aromatic depth without overwhelming heat.
+
+**Ingredients**
+- 12 oz (¾ lb) flank steak or top sirloin, thinly sliced across the grain into bite-sized strips
+- 3 cups green cabbage, cored and thinly sliced/shredded (vegetable 1)
+- 1 large red bell pepper, stemmed, seeded, and sliced into ¼-inch strips (vegetable 2)
+- 5 scallions, trimmed and cut into 2-inch pieces, whites and greens separated (vegetable 3)
+- 3 garlic cloves, minced
+- 1 tsp fresh ginger, grated or minced
+- 2–3 tbsp neutral cooking oil (divided)
+
+**Beef Marinade**
+- 1 tbsp soy sauce
+- 1 tbsp cornstarch
+- 1 tsp brown sugar
+- ½ tsp freshly ground black pepper (dialed back for gentle warmth)
+- 1 tbsp neutral cooking oil
+
+**Stir-Fry Sauce**
+- 2 tbsp low-sodium soy sauce
+- 1 tbsp oyster sauce
+- 1 tbsp Shaoxing wine (or dry sherry / water)
+- 1 tsp toasted sesame oil
+- 1 tsp brown sugar
+
+**Instructions**
+1. **Marinate the Beef:** In a medium bowl, combine sliced beef, 1 tbsp soy sauce, cornstarch, 1 tsp brown sugar, ½ tsp black pepper, and 1 tbsp neutral oil. Toss well so beef is evenly coated. Set aside for 10–15 minutes at room temperature.
+2. **Mix the Sauce:** In a small bowl, whisk together 2 tbsp soy sauce, oyster sauce, Shaoxing wine, sesame oil, and 1 tsp brown sugar.
+3. **Sear the Beef:** Heat 1 tbsp neutral oil in a large wok or 12-inch heavy skillet over high heat until smoking. Add beef in an even, single layer. Sear undisturbed for 60–90 seconds to build a brown crust, then stir-fry for 30–45 seconds until mostly browned but slightly pink in the center. Transfer immediately to a plate.
+4. **Stir-Fry Vegetables:** Add 1 tbsp oil to the pan. Add sliced cabbage and red bell pepper. Stir-fry over medium-high heat for 2–3 minutes until cabbage edges begin to blister and soften while remaining crisp-tender. Clear a spot in the center; add minced garlic, ginger, and scallion whites. Stir-fry for 30 seconds until fragrant, then toss together.
+5. **Combine & Glaze:** Return beef (and juices) to the pan along with scallion greens. Pour the sauce around the edges of the pan. Toss vigorously for 1 minute until the sauce bubbles, thickens slightly, and coats everything glossily.
+6. **Portion & Freeze:** Allow stir-fry to cool completely. Divide into containers (yields approx. 5 cups).
+7. **To Serve:** Reheat in a skillet or microwave and serve hot over rice or noodles with your favorite toppings from `TOPPINGS.md`.
+
+
