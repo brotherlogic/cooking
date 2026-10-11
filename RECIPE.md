@@ -452,4 +452,46 @@ This weeknight stir-fry pairs tender flank steak with sweet red bell peppers, cr
 6. **Portion & Freeze:** Allow stir-fry to cool completely. Divide into containers (yields approx. 5 cups).
 7. **To Serve:** Reheat in a skillet or microwave and serve hot over rice or noodles with your favorite toppings from `TOPPINGS.md`.
 
+---
+
+## Sausage, Fennel & Leek White Ragù (*Ragù Bianco*) with Tuscan Kale & Mushrooms
+*Adapted from Kay Chun and Northern Italian Ragù Bianco (NYT Cooking)*  
+*Yields approx. 10 cups (5 x 2-cup meals)*
+
+This rich, aromatic white ragù departs from traditional red tomato sauces, relying instead on dry white wine, chicken broth, sweet Italian sausage, and whole milk to create a deeply savory, glossy sauce. It incorporates four distinct vegetables—sweet caramelized fennel, melted leeks, browned cremini mushrooms, and tender braised Tuscan kale—that hold up exceptionally well to batch cooking and freezing.
+
+**Ingredients**
+- 2 lbs sweet Italian sausage (casings removed)
+- 4 oz pancetta or thick-cut bacon, finely diced
+- 2 tbsp olive oil (divided)
+- 2 medium fennel bulbs, trimmed, cored, and finely diced (~3 cups) (vegetable 1)
+- 2 large leeks, white and light green parts only, well-washed and finely chopped (~2 cups) (vegetable 2)
+- 1 lb (16 oz) cremini or shiitake mushrooms, finely minced (vegetable 3)
+- 1 large bunch (approx. 8 oz) Tuscan kale (Lacinato), stems stripped and leaves finely chopped (~4 cups) (vegetable 4)
+- 1 medium yellow onion, finely diced (~1 cup)
+- 6 garlic cloves, minced
+- 1 cup dry white wine (e.g., Pinot Grigio, Sauvignon Blanc, or dry vermouth)
+- 4 cups low-sodium chicken broth (plus extra if needed)
+- 1 cup whole milk
+- 1 piece Parmesan rind (optional, for simmering)
+- 1 tbsp fresh rosemary, finely minced
+- 1 tbsp fresh thyme leaves (or 1 tsp dried thyme)
+- 1 tsp fennel seeds, lightly crushed
+- 1/4 tsp red pepper flakes (optional, for gentle warmth)
+- 1 tbsp fresh lemon juice
+- Salt and freshly ground black pepper to taste
+- Freshly grated Pecorino Romano or Parmesan for serving
+- *Optional Topping:* Garlicky Umami Breadcrumbs (Pangrattato) from `TOPPINGS.md`
+
+**Instructions**
+1. **Render Pancetta & Brown Sausage:** In a large, heavy-bottomed Dutch oven (6- to 8-quart), heat 1 tbsp olive oil over medium-high heat. Add diced pancetta and cook until crispy and fat has rendered (4–5 mins). Add sausage meat, breaking it into small crumbles with a wooden spoon. Cook until browned and cooked through (7–9 mins). Remove sausage and pancetta with a slotted spoon to a large bowl, leaving the rendered fat in the pot.
+2. **Brown the Mushrooms:** Add finely minced mushrooms to the same pot over medium-high heat. Cook undisturbed for 2–3 minutes to initiate browning, then sauté until all released liquid evaporates and mushrooms are deeply browned and fragrant (6–8 mins). Transfer mushrooms to the bowl with the sausage.
+3. **Sauté the Fennel, Leeks & Aromatics:** Lower heat to medium and add remaining 1 tbsp olive oil. Add diced fennel, leeks, and yellow onion with 1/2 tsp salt. Cook, stirring occasionally, until vegetables are tender, sweet, and translucent (8–10 mins; do not brown excessively). Add minced garlic, crushed fennel seeds, minced rosemary, fresh thyme, and red pepper flakes; cook for 1–2 minutes until fragrant.
+4. **Deglaze with White Wine:** Pour in the white wine, scraping up all browned bits from the bottom of the pot with a wooden spoon. Simmer until the wine has reduced by about two-thirds (3–4 mins).
+5. **Simmer the Ragù:** Return the sausage, pancetta, and mushrooms (plus accumulated juices) to the pot. Stir in whole milk, chicken broth, 1 tsp salt, 1/2 tsp black pepper, and the Parmesan rind (if using). Bring to a gentle boil, then reduce heat to low. Partially cover and simmer gently for 45 minutes, stirring occasionally, until the liquid reduces and emulsifies into a rich, savory broth.
+6. **Braise the Kale:** Stir in chopped Tuscan kale. Partially cover and simmer for an additional 15–20 minutes until the kale is silky and tender, and the sauce is glossy and coats the back of a spoon (yielding approx. 10 cups). If the sauce appears too thick, stir in an extra 1/2 cup of broth.
+7. **Finish & Adjust:** Discard the Parmesan rind. Stir in 1 tbsp fresh lemon juice to lift the richness. Taste and adjust seasoning with salt and plenty of freshly ground black pepper.
+8. **Portion & Freeze:** Allow ragù to cool completely to room temperature. Divide evenly into five 2-cup freezer-safe containers (or ten 1-cup containers). Label and freeze for up to 3 months.
+9. **To Serve:** Thaw one 2-cup portion. Reheat in a wide skillet over medium heat. Toss with 12 to 16 oz of freshly boiled al dente pasta (such as tagliatelle, pappardelle, rigatoni, or orecchiette), adding a splash of starchy pasta cooking water as needed to create a glossy glaze. Finish with freshly grated Pecorino Romano and crunchy **Garlicky Umami Breadcrumbs (Pangrattato)**.
+
 
