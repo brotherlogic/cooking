@@ -494,4 +494,37 @@ This rich, aromatic white ragù departs from traditional red tomato sauces, rely
 8. **Portion & Freeze:** Allow ragù to cool completely to room temperature. Divide evenly into five 2-cup freezer-safe containers (or ten 1-cup containers). Label and freeze for up to 3 months.
 9. **To Serve:** Thaw one 2-cup portion. Reheat in a wide skillet over medium heat. Toss with 12 to 16 oz of freshly boiled al dente pasta (such as tagliatelle, pappardelle, rigatoni, or orecchiette), adding a splash of starchy pasta cooking water as needed to create a glossy glaze. Finish with freshly grated Pecorino Romano and crunchy **Garlicky Umami Breadcrumbs (Pangrattato)**.
 
+---
 
+## Coconut Milk Chicken Adobo (*Adobo sa Gata*) with Mushrooms & Green Beans
+*Adapted from Angela Dimayuga & Sam Sifton (NYT Cooking)*  
+*Yields approx. 5 cups (5 x 1-cup meals or 2 x 2-cup + 1 x 1-cup)*
+
+This rich, silky Filipino braise (*Adobo sa Gata*) swaps curry spices for a deeply savory, tangy, and garlicky sauce built from toasted garlic, soy sauce, rice wine vinegar, black pepper, bay leaves, and full-fat coconut milk. Bite-sized boneless chicken thighs and meaty mushrooms simmer in the aromatic braising liquid before crisp-tender green beans are added at the end, reducing into a velvety gravy made to soak into steamed rice. Full-fat coconut milk ensures the sauce freezes and reheats seamlessly without splitting.
+
+**Ingredients**
+- 1.25 lbs boneless, skinless chicken thighs, trimmed and cut into 1-inch bite-sized pieces
+- 8 oz cremini or shiitake mushrooms, stems trimmed and quartered or thickly sliced (vegetable 1)
+- 6 oz fresh green beans, trimmed and cut into 1.5-inch pieces (~1.5 cups) (vegetable 2)
+- 10 to 12 garlic cloves (about 1 large head), smashed and roughly chopped
+- 1 large shallot (or ½ medium yellow onion), thinly sliced
+- 1.5 tbsp coconut oil or neutral cooking oil
+- 1 can (13.5 oz) full-fat unsweetened coconut milk
+- ⅓ cup low-sodium soy sauce
+- ⅓ cup unseasoned rice wine vinegar (or coconut vinegar)
+- ½ cup low-sodium chicken broth (or water)
+- 1 tbsp light brown sugar or mirin (balances the vinegar tang)
+- ½ tsp freshly ground black pepper
+- ½ tsp whole black peppercorns (optional, for traditional adobo warmth)
+- 4 dried bay leaves
+- Cooked jasmine or white rice, for serving
+- *Optional Garnishes:* Thinly sliced scallions, fresh cilantro, or **Crispy Shallots** / **Quick-Pickled Red Onions** from `TOPPINGS.md`
+
+**Instructions**
+1. **Toast the Garlic & Aromatics:** Heat the coconut oil (or neutral oil) in a Dutch oven or large deep skillet over medium-low heat. Add the smashed garlic, sliced shallot, ground black pepper, and whole peppercorns (if using). Cook gently, stirring occasionally, until the garlic and shallots are softened, fragrant, and lightly golden around the edges (4–5 minutes; do not burn).
+2. **Sear Chicken & Mushrooms:** Increase the heat to medium-high. Add the chicken pieces and quartered mushrooms to the pot. Cook, stirring occasionally, until the chicken is lightly golden on the outside and the mushrooms begin to brown (about 5 minutes).
+3. **Braise in Coconut Adobo Liquid:** Pour in the coconut milk, soy sauce, rice wine vinegar, chicken broth, brown sugar (or mirin), and bay leaves. Stir well to scrape up any browned bits from the bottom of the pot. Bring to a lively simmer, then reduce the heat to medium-low. Partially cover and simmer gently for 20 minutes, stirring occasionally, until the chicken is tender and infused with flavor.
+4. **Simmer Green Beans & Reduce Gravy:** Uncover the pot and increase heat to medium. Stir in the cut green beans. Simmer uncovered for 8–10 minutes, stirring occasionally, until the green beans are crisp-tender and the sauce has reduced into a thick, glossy, velvety coconut-soy gravy (yielding approx. 5 cups total).
+5. **Adjust & Finish:** Discard the bay leaves. Taste the sauce and adjust seasoning with a pinch more brown sugar (if too tangy) or a splash of soy sauce (if needed).
+6. **Portion & Freeze:** Allow the chicken adobo to cool completely. Divide into freezer-safe containers (five 1-cup containers, or two 2-cup containers + one 1-cup container). Label and freeze. Store rice separately.
+7. **To Serve:** Thaw and reheat gently in a saucepan or microwave. Ladle generously over steaming hot jasmine rice and top with sliced scallions or **Crispy Shallots** from `TOPPINGS.md`.
